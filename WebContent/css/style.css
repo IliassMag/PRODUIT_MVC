@@ -1,0 +1,19 @@
+div {
+	border : 1px solid gray;
+	padding : 10px ;
+	margin : 10px;
+}
+
+.table2 th {
+	 border : 1px solid gray;
+	padding : 10px ;
+	margin : 10px;
+	background : aqua;
+}
+ 
+.table2 td {
+	 border : 1px solid gray;
+	padding : 10px ;
+	margin : 10px;
+	background : white;
+}
